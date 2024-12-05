@@ -9,12 +9,13 @@ import {
 
 // Firebase configuration (replace with your actual Firebase project credentials)
 const firebaseConfig = {
-  apiKey: "AIzaSyARLV52T-_-PqUtOBRvG7ZeyyPEeZINM9Q",
-  authDomain: "test-d1a03.firebaseapp.com",
-  projectId: "test-d1a03",
-  storageBucket: "test-d1a03.firebasestorage.app",
-  messagingSenderId: "619781751073",
-  appId: "1:619781751073:web:71134715f811f59040fe60",
+  apiKey: "AIzaSyCnSwaB4yf83JjdM6cHJVqWkj6iLVY3ado",
+  authDomain: "socialperks-256f4.firebaseapp.com",
+  projectId: "socialperks-256f4",
+  storageBucket: "socialperks-256f4.firebasestorage.app",
+  messagingSenderId: "409690059035",
+  appId: "1:409690059035:web:90167ee8a749d200ff23be",
+  measurementId: "G-LPF382DRPC",
 };
 
 // Initialize Firebase
